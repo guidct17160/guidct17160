@@ -3,7 +3,7 @@
 <h3>👨‍💻 Interested in Backend Development/Fullstack(Backend)<br>
 
 <h2>🧠Skill
-<li><p>Language: HTML CSS JavaScript 
+<p><li>Language: HTML CSS JavaScript 
 <li>Database: MongoDB , Postgres
 <li>Tools: Git, GitHub , VSCode , Postman 
 <li>Framework/Libraries: Node.js , Express.js , Mongoose , EJS , multer , bcrypt , jsonwebtoken
