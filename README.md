@@ -3,8 +3,8 @@ Welcome to my Github profile
 
 👨‍💻 Interested in Backend Development/Fullstack(Backend)<br>
 🧠 Skill
-- Language: HTML CSS JavaScript 
-- Database: MongoDB , Postgres
-- Tools: Git, GitHub , VSCode , Postman 
-- Framework/Libraries: Node.js , Express.js , Mongoose , EJS , multer , bcrypt , jsonwebtoken
+<li>Language: HTML CSS JavaScript 
+<li>Database: MongoDB , Postgres
+<li>Tools: Git, GitHub , VSCode , Postman 
+<li>Framework/Libraries: Node.js , Express.js , Mongoose , EJS , multer , bcrypt , jsonwebtoken
 
