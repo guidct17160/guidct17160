@@ -1,9 +1,9 @@
-<h1>Hi! I'm Dechathon Thongthipyarat<h1><br>
-Welcome to my Github profile<br>
-👨‍💻 Interested in Backend Development/Fullstack(Backend)<br>
+<h1>Hi! I'm Dechathon Thongthipyarat<br>
+<h2>Welcome to my Github profile<br>
+<h3>👨‍💻 Interested in Backend Development/Fullstack(Backend)<br>
 
 🧠 Skill
-<li>Language: HTML CSS JavaScript 
+<li><p>Language: HTML CSS JavaScript 
 <li>Database: MongoDB , Postgres
 <li>Tools: Git, GitHub , VSCode , Postman 
 <li>Framework/Libraries: Node.js , Express.js , Mongoose , EJS , multer , bcrypt , jsonwebtoken
