@@ -2,7 +2,7 @@
 <h2>Welcome to my Github profile<br>
 <h3>👨‍💻 Interested in Backend Development/Fullstack(Backend)<br>
 
-🧠 Skill
+<h2>🧠Skill
 <li><p>Language: HTML CSS JavaScript 
 <li>Database: MongoDB , Postgres
 <li>Tools: Git, GitHub , VSCode , Postman 
