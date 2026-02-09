@@ -3,7 +3,7 @@
 <h2>👨‍💻I interested in Frontend Development<br>
 
 <h1>🧠Skill
-  <li><h4>HTML
+  <li>HTML
   <li>CSS
   <li>JavaScript
   <li>React
