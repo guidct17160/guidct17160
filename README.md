@@ -3,10 +3,10 @@
 <h2>👨‍💻I interested in Frontend Development<br>
 
 <h1>🧠Skill
-  <li>HTML
-  <li>CSS
-  <li>JavaScript
-  <li>React
-  <li>Create UX/UI from Figma
+  <h4>HTML
+  <h4>CSS
+  <h4>JavaScript
+  <h4>Responsive Web Design
+  <h4>UI Implementation from Figma
   
 
