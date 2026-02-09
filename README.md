@@ -2,7 +2,7 @@
 <h3>Welcome to my Github profile<br>
 <h2>👨‍💻I interested in Frontend Development<br>
 
-<h2>🧠Skill
+<h1>🧠Skill
   <li>HTML
   <li>CSS
   <li>JavaScript
