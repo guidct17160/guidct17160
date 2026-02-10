@@ -7,6 +7,7 @@
   <h4>CSS
   <h4>JavaScript
   <h4>React
+  <h4>TailwindCss
   <h4>Responsive Web Design
   <h4>UI Implementation from Figma
   
