@@ -5,20 +5,23 @@
 # 🧠 Skills
 
 ### 🔍 Software Testing
-- **Manual Testing:** Test Case/Scenario Design, Bug Reporting
+- **Manual Testing:** Test Case/Scenario Design, Bug Reporting 
 - **Automation:** **Katalon Studio**, **JUnit** (90%+ Coverage)
-- **API Testing:** **Postman**, Katalon API Validation
-- **Testing:** Postman, Katalon Studio, JUnit
+- **API Testing:** **Postman**, Katalon API Validation 
+- **Testing:** Postman, Katalon Studio, JUnit 
 - **TestCase/TestScanario:** GoogleSheet
 
 ### 💻 Frontend Development
 - HTML / CSS / JavaScript 
 - **React.js** / Tailwind CSS
 - Responsive Web Design & UI Implementation from Figma
-  
-
+- 
 - **Editor & Version Control:** VS Code, Git, GitHub
 - **Design:** Figma
+
+- ### Languages I have studied
+- Node.js / Vue /Kotlin /Python /Java /C 
+
   
   
 
