@@ -12,7 +12,7 @@
 - **TestCase/TestScanario:** GoogleSheet
 
 ### 💻 Frontend Development
-- HTML5 / CSS3 / JavaScript (ES6+)
+- HTML / CSS / JavaScript 
 - **React.js** / Tailwind CSS
 - Responsive Web Design & UI Implementation from Figma
   
