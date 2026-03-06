@@ -9,6 +9,7 @@
 - **Automation:** **Katalon Studio**, **JUnit** (90%+ Coverage)
 - **API Testing:** **Postman**, Katalon API Validation
 - **Testing:** Postman, Katalon Studio, JUnit
+- **TestCase/TestScanario:** GoogleSheet
 
 ### 💻 Frontend Development
 - HTML5 / CSS3 / JavaScript (ES6+)
