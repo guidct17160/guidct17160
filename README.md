@@ -1,4 +1,4 @@
-<img width="1312" height="484" alt="image" src="https://github.com/user-attachments/assets/71d0b08d-bffa-4bb7-9a0a-4171f3e47eed" /><h1>Hi! I'm Dechathon Thongthipyarat<br>
+<h1>Hi! I'm Dechathon Thongthipyarat<br>
 <h3>Welcome to my Github profile<br>
 <h2>👨‍💻Software Engineer | Passionate about Frontend Development & Quality Assurance<br>
 
