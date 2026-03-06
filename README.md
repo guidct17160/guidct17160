@@ -8,7 +8,7 @@
 - **Manual Testing:** Test Case/Scenario Design, Bug Reporting
 - **Automation:** **Katalon Studio**, **JUnit** (90%+ Coverage)
 - **API Testing:** **Postman**, Katalon API Validation
-- - **Testing:** Postman, Katalon Studio, JUnit
+- **Testing:** Postman, Katalon Studio, JUnit
 
 ### 💻 Frontend Development
 - HTML5 / CSS3 / JavaScript (ES6+)
