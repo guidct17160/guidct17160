@@ -6,7 +6,7 @@
 
 ### 🔍 Software Testing
 - **Manual Testing:** Test Case/Scenario Design, Bug Reporting 
-- **Automation:** **Katalon Studio**, **JUnit** (90%+ Coverage)
+- **Automation:** **Katalon Studio**, **Eclipse JUnit** (90%+ Coverage)
 - **API Testing:** **Postman**, Katalon API Validation 
 - **Testing:** Postman, Katalon Studio, JUnit 
 - **TestCase/TestScanario:** GoogleSheet
