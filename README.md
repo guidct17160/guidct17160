@@ -15,7 +15,6 @@
 - HTML / CSS / JavaScript 
 - **React.js** / Tailwind CSS
 - Responsive Web Design & UI Implementation from Figma
-- 
 - **Editor & Version Control:** VS Code, Git, GitHub
 - **Design:** Figma
 
